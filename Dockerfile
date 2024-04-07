@@ -9,5 +9,5 @@ RUN npm i && npm run build
 FROM nginx
 COPY --from=0 /home/public /usr/share/nginx/html
 
-# docker build -t frankyya-blog-nginx .
-# docker run --name frankyya-blog-nginx -d -p 50200:80 frankyya-blog-nginx
+# sudo docker build -t frankyya-blog-nginx .
+# sudo docker run --name frankyya-blog-nginx -d -p 50200:80 frankyya-blog-nginx
