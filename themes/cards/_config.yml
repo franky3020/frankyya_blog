@@ -87,9 +87,9 @@ style:
 
   # 颜色配置
   color:
-    main_color: '#6200ee'
-    main_color_dark: '#bb86fc'
-    selection_color: '#318efd'
+    main_color: '#000000'
+    main_color_dark: '#000000'
+    selection_color: '#ffffff'
 
   # 弧度设置
   radius:
@@ -140,8 +140,8 @@ meta:
 
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name:
+    url:
 
   # 文章创建日期
   date:
