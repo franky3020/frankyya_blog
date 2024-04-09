@@ -1,5 +1,5 @@
 ---
-title: '魔術App 乾淨完美的預言魔術 (iOS, Android)'
+title: '開源魔術App, 乾淨完美的預言魔術 (iOS, Android)'
 date: 2024-04-08 22:59:16
 tags:
 ---
@@ -19,6 +19,8 @@ App name: Predict Card Magic Trick
 Google Paly 下載連結: https://play.google.com/store/apps/details?id=tw.franky.predict_card
 
 iOS 下載連結: https://apps.apple.com/us/app/predict-card-magic-trick/id6445894214
+
+GitHub 專案連接: https://github.com/franky3020/predict_card_magic_trick
 
 這 app 的靈感來源為有次我下載了某款魔術app,
 它的效果是可以讓觀眾任意選擇52張牌,
